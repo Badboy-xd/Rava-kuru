@@ -9,7 +9,7 @@
     <a href="https://t.me/EnglishHindi_Chatting_Group"> Support Chat </a> 
 </p>
     
-# Tesla Music Bot
+# Rava-Kuru Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
